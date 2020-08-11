@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/crypto-pricing/static/css/main.9b6e2057.chunk.css",
+    "main.js": "/github.io/crypto-pricing/static/js/main.273e626b.chunk.js",
+    "main.js.map": "/github.io/crypto-pricing/static/js/main.273e626b.chunk.js.map",
+    "runtime-main.js": "/github.io/crypto-pricing/static/js/runtime-main.94ba3209.js",
+    "runtime-main.js.map": "/github.io/crypto-pricing/static/js/runtime-main.94ba3209.js.map",
+    "static/js/2.d1ac3639.chunk.js": "/github.io/crypto-pricing/static/js/2.d1ac3639.chunk.js",
+    "static/js/2.d1ac3639.chunk.js.map": "/github.io/crypto-pricing/static/js/2.d1ac3639.chunk.js.map",
+    "index.html": "/github.io/crypto-pricing/index.html",
+    "precache-manifest.41430f9bb8e96d5c80be049e79ddde77.js": "/github.io/crypto-pricing/precache-manifest.41430f9bb8e96d5c80be049e79ddde77.js",
+    "service-worker.js": "/github.io/crypto-pricing/service-worker.js",
+    "static/css/main.9b6e2057.chunk.css.map": "/github.io/crypto-pricing/static/css/main.9b6e2057.chunk.css.map",
+    "static/js/2.d1ac3639.chunk.js.LICENSE.txt": "/github.io/crypto-pricing/static/js/2.d1ac3639.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94ba3209.js",
+    "static/js/2.d1ac3639.chunk.js",
+    "static/css/main.9b6e2057.chunk.css",
+    "static/js/main.273e626b.chunk.js"
+  ]
+}
